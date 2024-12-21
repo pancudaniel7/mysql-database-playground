@@ -1,0 +1,1 @@
+-- SQL script with SELECT queries
